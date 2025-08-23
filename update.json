@@ -1,11 +1,5 @@
 {
   "latestVersion": "1.0.2",
   "apkUrl": "https://github.com/Brevo254/pdfbuks/releases/download/v1.0.0/pdfbuks_v1.apk",
-  "changelog": "Changelog (v2.0)
-  
-📚 Restored 75% of previously unavailable books in the Home Library
-
-🎨 Improved Profile UI for a cleaner, smoother experience
-
-🚀 Introduced in-app update downloads for faster future upgrades"
+  "changelog": "- Restored 75% of previously unavailable books in the Home Library\n- Improved Profile UI for a cleaner, smoother experience\n- Introduced in-app update downloads for faster future upgrades"
 }
