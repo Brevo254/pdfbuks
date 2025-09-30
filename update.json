@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.6",
-  "apkUrl": "https://github.com/Brevo254/pdfbuks/releases/download/v1.0.6/PDFBuks-v1.0.6.apk",
-  "changelog": "- ✨ Refreshed glassy UI for a modern look \n- ⚡ Faster app loading and smoother performance \n- 📚 Improved book recovery and download handling  \n- 🖼️ Interactive cover images – tap to view full cover \n- 🔧 Enhanced download schema for stability and reliability \n- 🎛️ More intuitive UI components for better navigation \n-🐞 Various bug fixes and optimizations "
+  "latestVersion": "1.0.7",
+  "apkUrl": "https://github.com/Brevo254/pdfbuks/releases/download/v1.0.7/PDFBuks-v1.0.7.apk",
+  "changelog": "- ✨ New, cleaner search design – modern UI that makes finding books faster and smoother\n  \n- ⌨️ Smart keyboard behavior – type, search, done → keyboard hides automatically\n  \n- 🧹 Cache clearing control – now YOU decide when to clear old results & refresh searches\n  \n- 🎨 Refined design improvements– books look sharper, covers cleaner, library feel upgraded\n \n- ⚡ Performance tweaks – faster responses, less clutter, more flow\n \n\n 💡 PDFBuks 1.0.6 gave you style. PDFBuks 1.0.7 gives you control. "
 }
