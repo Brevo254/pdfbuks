@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Get PDFBuks</title>
+  <script>
+    async function redirectToLatest() {
+      try {
+        const res = await fetch('https://raw.githubusercontent.com/Brevo254/pdfbuks/main/update.json');
+        const data = await res.json();
+        window.location.href = data.apkUrl;
+      } catch (e) {
+        document.body.innerHTML = '<h2>⚠️ Could not fetch download link. Try again later.</h2>';
+      }
+    }
+    redirectToLatest();
+  </script>
+</head>
+<body>
+  <p>Redirecting to the latest version of PDFBuks...</p>
+</body>
+</html>
