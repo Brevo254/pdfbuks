@@ -1,0 +1,69 @@
+{
+  "carousel_enabled": true,
+  "last_updated": "2026-02-04",
+  "auto_scroll_seconds": 5,
+
+  "carousel_items": [
+
+    {
+      "id": "car_001",
+      "type": "education",
+      "title": "Featured Book: Engineering Mathematics",
+      "subtitle": "Boost your problem-solving skills",
+      "image_url": "https://example.com/images/engineering_math.jpg",
+      "click_url": "pdfbuks://book/1234",
+      "label": "Featured",
+      "priority": 1,
+      "active": true
+    },
+
+    {
+      "id": "car_002",
+      "type": "announcement",
+      "title": "Offline Reading Improved",
+      "subtitle": "Faster loading and smarter caching now available",
+      "image_url": "https://example.com/images/offline_upgrade.jpg",
+      "click_url": "pdfbuks://features/offline",
+      "label": "New",
+      "priority": 2,
+      "active": true
+    },
+
+    {
+      "id": "car_003",
+      "type": "promotion",
+      "title": "Student Bookstore Discounts",
+      "subtitle": "Get affordable printed textbooks near you",
+      "image_url": "https://example.com/images/bookstore_discount.jpg",
+      "click_url": "https://example.com/student-deals",
+      "label": "Offer",
+      "priority": 3,
+      "active": true
+    },
+
+    {
+      "id": "car_004",
+      "type": "event",
+      "title": "KNEC Exam Registration Deadline",
+      "subtitle": "Registration closes soon. Stay prepared.",
+      "image_url": "https://example.com/images/knec_deadline.jpg",
+      "click_url": "https://www.knec.ac.ke",
+      "label": "Reminder",
+      "priority": 4,
+      "active": true
+    },
+
+    {
+      "id": "car_005",
+      "type": "ad",
+      "title": "Try UniHub Today",
+      "subtitle": "Earn from ads, access tools & student entertainment",
+      "image_url": "https://example.com/images/unihub_promo.jpg",
+      "click_url": "https://play.google.com/store/apps/details?id=com.unihub.app",
+      "label": "Sponsored",
+      "priority": 5,
+      "active": true
+    }
+
+  ]
+}
