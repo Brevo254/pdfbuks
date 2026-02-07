@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Action",
+    "image": "https://github.com/<username>/<repo>/raw/main/images/action.png",
+    "redirect_url": "https://github.com/<username>/<repo>/raw/main/books/action_books.json"
+  },
+  {
+    "name": "Romance",
+    "image": "https://github.com/<username>/<repo>/raw/main/images/romance.png",
+    "redirect_url": "https://github.com/<username>/<repo>/raw/main/books/romance_books.json"
+  }
+]
