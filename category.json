@@ -1,12 +1,52 @@
 [
   {
-    "name": "Action",
-    "image": "https://picsum.photos/200/200?1",
-    "redirect_url": "https://github.com/<username>/<repo>/raw/main/books/action_books.json"
+    "name": "Android",
+    "image": "https://www.pdfiles.net/storage/android.png",
+    "redirect_url": ""
   },
   {
-    "name": "Romance",
-    "image": "https://picsum.photos/200/200?2",
-    "redirect_url": "https://github.com/<username>/<repo>/raw/main/books/romance_books.json"
-  }
+    "name": "Database",
+    "image": "https://www.pdfiles.net/storage/database.png",
+    "redirect_url": ""
+  },
+  {
+    "name": "Designing and Graphics",
+    "image": "https://www.pdfiles.net/storage/des.png",
+    "redirect_url": ""
+  },
+  {
+    "name": "Desktop Apps Programming",
+    "image": "https://www.pdfiles.net/storage/desktop-programming.png",
+    "redirect_url": ""
+  },
+  {
+    "name": "Hardware",
+    "image": "https://www.pdfiles.net/storage/hardware.png",
+    "redirect_url": ""
+  },
+  {
+    "name": "IT Certifications",
+    "image": "https://www.pdfiles.net/storage/it.png",
+    "redirect_url": ""
+  },
+  {
+    "name": "Networking",
+    "image": "https://www.pdfiles.net/storage/Networking.png",
+    "redirect_url": ""
+  },
+  {
+    "name": "Android",
+    "image": "https://www.pdfiles.net/storage/android.png",
+    "redirect_url": ""
+  },
+  {
+    "name": "Android",
+    "image": "https://www.pdfiles.net/storage/android.png",
+    "redirect_url": ""
+  },
+  {
+    "name": "Android",
+    "image": "https://www.pdfiles.net/storage/android.png",
+    "redirect_url": ""
+  },
 ]
