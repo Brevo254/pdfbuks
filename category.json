@@ -35,18 +35,48 @@
     "redirect_url": ""
   },
   {
-    "name": "Android",
-    "image": "https://www.pdfiles.net/storage/android.png",
+    "name": "Operating Systems",
+    "image": "https://www.pdfiles.net/storage/os.png",
     "redirect_url": ""
   },
   {
-    "name": "Android",
-    "image": "https://www.pdfiles.net/storage/android.png",
+    "name": "Other",
+    "image": "https://www.pdfiles.net/storage/other.png",
     "redirect_url": ""
   },
   {
-    "name": "Android",
-    "image": "https://www.pdfiles.net/storage/android.png",
+    "name": "Security",
+    "image": "https://www.pdfiles.net/storage/security.png",
     "redirect_url": ""
   },
+  {
+    "name": "Software",
+    "image": "https://www.pdfiles.net/storage/software.png",
+    "redirect_url": ""
+  },
+  {
+    "name": "WebApps Programming & Internet",
+    "image": "https://www.pdfiles.net/storage/webapps.png",
+    "redirect_url": ""
+  },
+  {
+    "name": "For Dummies",
+    "image": "https://www.pdfiles.net/storage/dummies.png",
+    "redirect_url": ""
+  },
+  {
+    "name": "Hello World Magazine",
+    "image": "https://www.pdfiles.net/storage/Helloworld.png",
+    "redirect_url": ""
+  },
+  {
+    "name": "Notes For Professionals",
+    "image": "https://www.pdfiles.net/storage/Notes.png",
+    "redirect_url": ""
+  },
+  {
+    "name": "Head First",
+    "image": "https://www.pdfiles.net/storage/headfirst.png",
+    "redirect_url": ""
+  }
 ]
