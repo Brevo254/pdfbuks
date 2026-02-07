@@ -1,12 +1,12 @@
 [
   {
     "name": "Action",
-    "image": "https://github.com/<username>/<repo>/raw/main/images/action.png",
+    "image": "https://picsum.photos/200/200?1",
     "redirect_url": "https://github.com/<username>/<repo>/raw/main/books/action_books.json"
   },
   {
     "name": "Romance",
-    "image": "https://github.com/<username>/<repo>/raw/main/images/romance.png",
+    "image": "https://picsum.photos/200/200?2",
     "redirect_url": "https://github.com/<username>/<repo>/raw/main/books/romance_books.json"
   }
 ]
