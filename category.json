@@ -78,5 +78,10 @@
     "name": "Head First",
     "image": "https://www.pdfiles.net/storage/headfirst.png",
     "redirect_url": ""
+  },
+   {
+    "name": "Mystery",
+    "image": "https://africanbooks.com/assets/images/categories/mystery.png",
+    "redirect_url": ""
   }
 ]
