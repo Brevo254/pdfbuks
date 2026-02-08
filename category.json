@@ -83,5 +83,30 @@
     "name": "Mystery",
     "image": "https://africanbooks.com/assets/images/categories/mystery.png",
     "redirect_url": ""
+  },
+  {
+    "name": "Inspirational",
+    "image": "https://africanbooks.com/assets/images/categories/inspirational.png",
+    "redirect_url": ""
+  },
+  {
+    "name": "Poetry",
+    "image": "https://africanbooks.com/assets/images/categories/poetry.png",
+    "redirect_url": ""
+  },
+  {
+    "name": "Historical",
+    "image": "https://africanbooks.com/assets/images/categories/historical.png",
+    "redirect_url": ""
+  },
+  {
+    "name": "Romance",
+    "image": "https://africanbooks.com/assets/images/categories/romance.png",
+    "redirect_url": ""
+  },
+  {
+    "name": "Christian",
+    "image": "https://africanbooks.com/assets/images/categories/christian.png",
+    "redirect_url": ""
   }
 ]
