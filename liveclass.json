@@ -1,0 +1,59 @@
+[
+   {
+      "id": "mth202_mon",
+      "courseCode": "MTH 202",
+      "title": "Calculus II",
+      "host": "Dr. Were",
+      "department": "Mathematics",
+      "thumbnailUrl": "https://yourcdn.com/images/mathematics.jpg",
+      "meetingLink": "https://meet.google.com/xyz-abc-def",
+      "days": ["Mon", "Wed"],
+      "startTime": "10:00",
+      "endTime": "11:30",
+      "isActive": true,
+      "isPostponed": false,
+      "postponedDate": null,
+      "overrideDate": null,
+      "createdAt": "2026-02-20",
+      "lastUpdated": "2026-03-01T08:00:00"
+    },
+
+    {
+      "id": "csc101_tue",
+      "courseCode": "CSC 101",
+      "title": "Introduction to Programming",
+      "host": "Prof. Otieno",
+      "department": "Computer Science",
+      "thumbnailUrl": "https://yourcdn.com/images/compsci.jpg",
+      "meetingLink": "https://meet.google.com/programming-link",
+      "days": ["Tue", "Thu"],
+      "startTime": "14:00",
+      "endTime": "15:30",
+      "isActive": true,
+      "isPostponed": false,
+      "postponedDate": null,
+      "overrideDate": null,
+      "createdAt": "2026-02-22",
+      "lastUpdated": "2026-03-01T08:10:00"
+    },
+
+    {
+      "id": "eng201_fri",
+      "courseCode": "ENG 201",
+      "title": "Engineering Mechanics",
+      "host": "Dr. Kamau",
+      "department": "Engineering",
+      "thumbnailUrl": "https://yourcdn.com/images/engineering.jpg",
+      "meetingLink": "https://meet.google.com/engineering-link",
+      "days": ["Fri"],
+      "startTime": "09:00",
+      "endTime": "10:30",
+      "isActive": false,
+      "isPostponed": false,
+      "postponedDate": null,
+      "overrideDate": null,
+      "createdAt": "2026-02-25",
+      "lastUpdated": "2026-03-01T08:15:00"
+    }
+
+]
