@@ -30,7 +30,7 @@
       "startTime": "14:00",
       "endTime": "15:30",
       "isActive": true,
-      "isPostponed": true,
+      "isPostponed": false,
       "postponedDate": null,
       "overrideDate": null,
       "createdAt": "2026-02-22",
